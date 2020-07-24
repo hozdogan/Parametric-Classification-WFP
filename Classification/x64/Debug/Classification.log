@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\asus\source\repos\Classification\MyForm.h(304,30): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\asus\source\repos\Classification\MyForm.h(305,30): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\asus\source\repos\Classification\MyForm.h(306,18): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\asus\source\repos\Classification\MyForm.h(336,26): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\asus\source\repos\Classification\MyForm.h(337,26): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\asus\source\repos\Classification\MyForm.h(338,76): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\asus\source\repos\Classification\MyForm.h(343,43): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  MyForm.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  Classification.vcxproj -> C:\Users\asus\source\repos\Classification\x64\Debug\Classification.exe

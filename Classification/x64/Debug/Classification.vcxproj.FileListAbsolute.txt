@@ -1,0 +1,5 @@
+C:\Users\asus\source\repos\Classification\x64\Debug\Classification.exe
+C:\Users\asus\source\repos\Classification\x64\Debug\Classification.pdb
+C:\Users\asus\source\repos\Classification\x64\Debug\Classification.vcxprojAssemblyReference.cache
+C:\Users\asus\source\repos\Classification\x64\Debug\Classification.MyForm.resources
+C:\Users\asus\source\repos\Classification\x64\Debug\Classification.vcxproj.GenerateResource.cache
